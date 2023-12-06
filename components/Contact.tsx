@@ -6,7 +6,7 @@ const Contact = () => {
           <div className="w-full px-4">
             <div className="mx-auto mb-16 max-w-xl text-center">
               <h2 className="mb-4 text-3xl font-bold text-dark dark:text-white sm:text-4xl lg:text-5xl">Contact Me</h2>
-              <p className="text-md font-medium text-secondary md:text-lg">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis, sed.</p>
+              <p className="text-md font-medium text-secondary md:text-lg">Jangan ragu untuk mengkontak saya, mari bertukar wawasan dan terus belajar.</p>
             </div>
           </div>
 
