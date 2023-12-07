@@ -7,12 +7,12 @@ const About = () => {
             <div className="mb-10 w-full px-4 lg:w-1/2">
               <h4 className="mb-3 text-lg font-bold uppercase text-primary">About Me</h4>
               <h2 className="mb-5 max-w-md text-3xl font-bold text-dark dark:text-white lg:text-4xl">Fresh Graduate From Pancasila University</h2>
-              <p className="max-w-xl text-base font-medium text-secondary lg:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id temporibus maiores sequi vitae saepe iusto deleniti!</p>
+              <p className="max-w-xl text-base font-medium text-secondary lg:text-lg">With the cumlaude title of outstanding graduate with honors, with GPA 3.68</p>
             </div>
             <div className="w-full px-4 lg:w-1/2">
               <h3 className="mb-4 text-2xl font-semibold text-dark dark:text-white lg:pt-10 lg:text-3xl">{"Let's Be Friend"}</h3>
               <p className="mb-6 text-base font-medium text-secondary lg:text-lg">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus quos, hic animi quasi ipsum exercitationem ipsam incidunt voluptatem.
+                You can call me Bahr or Aldi. I have several hobbies besides programming, including swimming, jogging, table tenis or pimpong, playing games, watching anime and maybe go to cosplayer event. 
               </p>
               <div className="flex items-center">
                 <a

@@ -25,6 +25,9 @@ const NavBar = () => {
                   <a href="#about" className="mx-8 flex py-2 text-base text-dark group-hover:text-primary dark:text-white">About Me</a>
                 </li>
                 <li className="group">
+                  <a href="#skill" className="mx-8 flex py-2 text-base text-dark group-hover:text-primary dark:text-white">Skill</a>
+                </li>
+                <li className="group">
                   <a href="#portfolio" className="mx-8 flex py-2 text-base text-dark group-hover:text-primary dark:text-white">Portfolio</a>
                 </li>
                 <li className="group">

@@ -13,7 +13,7 @@ const HeroSection = () => {
             </div>
             <div className="w-full self-end px-4 lg:w-1/2">
               <div className="relative mt-10 lg:right-0 lg:mt-9">
-                <Image src="/person1.jpg" alt="Baharuddin" width={250} height={250} className="relative z-10 mx-auto max-w-full bottom-20 rounded-b-full" />
+                <Image src="/assets/person1.jpg" alt="Baharuddin" width={250} height={250} className="relative z-10 mx-auto max-w-full bottom-20 rounded-b-full" />
                 <span className="absolute bottom-0 left-1/2 -translate-x-1/2 md:scale-125">
                   <svg width="400" height="400" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                     <path

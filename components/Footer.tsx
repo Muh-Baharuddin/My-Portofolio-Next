@@ -17,21 +17,24 @@ const Footer = () => {
                 <a href="#" className="mb-3 inline-block text-base hover:text-primary">Programming</a>
               </li>
               <li>
-                <a href="#" className="mb-3 inline-block text-base hover:text-primary">Teknologi</a>
+                <a href="#" className="mb-3 inline-block text-base hover:text-primary">Technology</a>
               </li>
               <li>
-                <a href="#" className="mb-3 inline-block text-base hover:text-primary">Gaya Hidup</a>
+                <a href="#" className="mb-3 inline-block text-base hover:text-primary">Life Style</a>
               </li>
             </ul>
           </div>
           <div className="mb-12 w-full px-4 md:w-1/3">
-            <h3 className="mb-5 text-xl font-semibold text-white">Tautan</h3>
+            <h3 className="mb-5 text-xl font-semibold text-white">Link</h3>
             <ul className="text-slate-300">
               <li>
-                <a href="#home" className="mb-3 inline-block text-base hover:text-primary">Beranda</a>
+                <a href="#home" className="mb-3 inline-block text-base hover:text-primary">Home Page</a>
               </li>
               <li>
                 <a href="#about" className="mb-3 inline-block text-base hover:text-primary">About Me</a>
+              </li>
+              <li>
+                <a href="#skill" className="mb-3 inline-block text-base hover:text-primary">Skill</a>
               </li>
               <li>
                 <a href="#portfolio" className="mb-3 inline-block text-base hover:text-primary">Portfolio</a>
