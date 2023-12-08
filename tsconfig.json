@@ -25,7 +25,8 @@
     "paths": {
       "@/*": [
         "./*"
-      ]
+      ],
+      "@image/*": ["./public/assets/*"]
     }
   },
   "include": [
